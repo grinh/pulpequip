@@ -1,0 +1,597 @@
+[
+    {
+      "Id": "a1b2c3d4-0001-0000-0000-000000000000",
+      "Name": "Garnitur z wełny czesankowej",
+      "Category": "Ubrania męskie",
+      "BasePrice": 17.95,
+      "PriceDisplay": "17,95 $"
+    },
+    {
+      "Id": "a1b2c3d4-0002-0000-0000-000000000000",
+      "Name": "Garnitur z kaszmiru",
+      "Category": "Ubrania męskie",
+      "BasePrice": 18.50,
+      "PriceDisplay": "18,50 $"
+    },
+    {
+      "Id": "a1b2c3d4-0003-0000-0000-000000000000",
+      "Name": "Moherowy garnitur",
+      "Category": "Ubrania męskie",
+      "BasePrice": 13.85,
+      "PriceDisplay": "13,85 $"
+    },
+    {
+      "Id": "a1b2c3d4-0004-0000-0000-000000000000",
+      "Name": "Garnitur sztruksowy typu Norfolk",
+      "Category": "Ubrania męskie",
+      "BasePrice": 9.95,
+      "PriceDisplay": "9,95 $"
+    },
+    {
+      "Id": "a1b2c3d4-0005-0000-0000-000000000000",
+      "Name": "Kombinezon bieliźniany typu Forest Mills",
+      "Category": "Ubrania męskie",
+      "BasePrice": 0.69,
+      "PriceDisplay": "0,69 $"
+    },
+    {
+      "Id": "a1b2c3d4-0006-0000-0000-000000000001",
+      "Name": "Płaszcz (okrycie wierzchnie) - Wariant 1",
+      "Category": "Ubrania męskie",
+      "BasePrice": 9.95,
+      "PriceDisplay": "9,95 $"
+    },
+    {
+      "Id": "a1b2c3d4-0006-0000-0000-000000000002",
+      "Name": "Płaszcz (okrycie wierzchnie) - Wariant 2",
+      "Category": "Ubrania męskie",
+      "BasePrice": 15.00,
+      "PriceDisplay": "15,00 $"
+    },
+    {
+      "Id": "a1b2c3d4-0006-0000-0000-000000000003",
+      "Name": "Płaszcz (okrycie wierzchnie) - Wariant 3",
+      "Category": "Ubrania męskie",
+      "BasePrice": 20.00,
+      "PriceDisplay": "20,00 $"
+    },
+    {
+      "Id": "a1b2c3d4-0006-0000-0000-000000000004",
+      "Name": "Płaszcz (okrycie wierzchnie) - Wariant 4",
+      "Category": "Ubrania męskie",
+      "BasePrice": 27.50,
+      "PriceDisplay": "27,50 $"
+    },
+    {
+      "Id": "a1b2c3d4-0006-0000-0000-000000000005",
+      "Name": "Płaszcz (okrycie wierzchnie) - Wariant 5",
+      "Category": "Ubrania męskie",
+      "BasePrice": 35.00,
+      "PriceDisplay": "35,00 $"
+    },
+    {
+      "Id": "a1b2c3d4-0007-0000-0000-000000000000",
+      "Name": "Płaszcz z psiego futra",
+      "Category": "Ubrania męskie",
+      "BasePrice": 37.50,
+      "PriceDisplay": "37,50 $"
+    },
+    {
+      "Id": "a1b2c3d4-0008-0000-0000-000000000000",
+      "Name": "Płaszcz typu Chesterfield",
+      "Category": "Ubrania męskie",
+      "BasePrice": 19.95,
+      "PriceDisplay": "19,95 $"
+    },
+    {
+      "Id": "a1b2c3d4-0009-0000-0000-000000000000",
+      "Name": "Buty do garnituru typu oxford",
+      "Category": "Ubrania męskie",
+      "BasePrice": 6.95,
+      "PriceDisplay": "6,95 $"
+    },
+    {
+      "Id": "a1b2c3d4-0010-0000-0000-000000000000",
+      "Name": "Skórzane buty robocze",
+      "Category": "Ubrania męskie",
+      "BasePrice": 4.95,
+      "PriceDisplay": "4,95 $"
+    },
+    {
+      "Id": "a1b2c3d4-0011-0000-0000-000000000000",
+      "Name": "Spodnie z kantem z białej flaneli",
+      "Category": "Ubrania męskie",
+      "BasePrice": 8.00,
+      "PriceDisplay": "8,00 $"
+    },
+    {
+      "Id": "a1b2c3d4-0012-0000-0000-000000000000",
+      "Name": "Bryczesy",
+      "Category": "Ubrania męskie",
+      "BasePrice": 4.95,
+      "PriceDisplay": "4,95 $"
+    },
+    {
+      "Id": "a1b2c3d4-0013-0000-0000-000000000001",
+      "Name": "Koszula perkalowa - Wariant 1",
+      "Category": "Ubrania męskie",
+      "BasePrice": 0.79,
+      "PriceDisplay": "0,79 $"
+    },
+    {
+      "Id": "a1b2c3d4-0013-0000-0000-000000000002",
+      "Name": "Koszula perkalowa - Wariant 2",
+      "Category": "Ubrania męskie",
+      "BasePrice": 0.90,
+      "PriceDisplay": "0,90 $"
+    },
+    {
+      "Id": "a1b2c3d4-0013-0000-0000-000000000003",
+      "Name": "Koszula perkalowa - Wariant 3",
+      "Category": "Ubrania męskie",
+      "BasePrice": 1.00,
+      "PriceDisplay": "1,00 $"
+    },
+    {
+      "Id": "a1b2c3d4-0013-0000-0000-000000000004",
+      "Name": "Koszula perkalowa - Wariant 4",
+      "Category": "Ubrania męskie",
+      "BasePrice": 1.15,
+      "PriceDisplay": "1,15 $"
+    },
+    {
+      "Id": "a1b2c3d4-0013-0000-0000-000000000005",
+      "Name": "Koszula perkalowa - Wariant 5",
+      "Category": "Ubrania męskie",
+      "BasePrice": 1.25,
+      "PriceDisplay": "1,25 $"
+    },
+    {
+      "Id": "a1b2c3d4-0014-0000-0000-000000000000",
+      "Name": "Elegancka koszula do garnituru",
+      "Category": "Ubrania męskie",
+      "BasePrice": 1.95,
+      "PriceDisplay": "1,95 $"
+    },
+    {
+      "Id": "a1b2c3d4-0015-0000-0000-000000000000",
+      "Name": "Sweter",
+      "Category": "Ubrania męskie",
+      "BasePrice": 7.69,
+      "PriceDisplay": "7,69 $"
+    },
+    {
+      "Id": "a1b2c3d4-0016-0000-0000-000000000000",
+      "Name": "Filcowy kapelusz",
+      "Category": "Ubrania męskie",
+      "BasePrice": 4.95,
+      "PriceDisplay": "4,95 $"
+    },
+    {
+      "Id": "a1b2c3d4-0017-0000-0000-000000000000",
+      "Name": "Wełniany kaszkiet",
+      "Category": "Ubrania męskie",
+      "BasePrice": 0.79,
+      "PriceDisplay": "0,79 $"
+    },
+    {
+      "Id": "a1b2c3d4-0018-0000-0000-000000000000",
+      "Name": "Słomkowy kapelusz",
+      "Category": "Ubrania męskie",
+      "BasePrice": 1.95,
+      "PriceDisplay": "1,95 $"
+    },
+    {
+      "Id": "a1b2c3d4-0019-0000-0000-000000000000",
+      "Name": "Wyściełany skórzany kask futbolowy",
+      "Category": "Ubrania męskie",
+      "BasePrice": 3.65,
+      "PriceDisplay": "3,65 $"
+    },
+    {
+      "Id": "a1b2c3d4-0020-0000-0000-000000000000",
+      "Name": "Bluza",
+      "Category": "Ubrania męskie",
+      "BasePrice": 0.98,
+      "PriceDisplay": "0,98 $"
+    },
+    {
+      "Id": "a1b2c3d4-0021-0000-0000-000000000000",
+      "Name": "Futrzana czapka z foczej skóry",
+      "Category": "Ubrania męskie",
+      "BasePrice": 16.95,
+      "PriceDisplay": "16,95 $"
+    },
+    {
+      "Id": "a1b2c3d4-0022-0000-0000-000000000000",
+      "Name": "Jedwabny krawat wiązany na węzeł prosty",
+      "Category": "Ubrania męskie",
+      "BasePrice": 0.96,
+      "PriceDisplay": "0,96 $"
+    },
+    {
+      "Id": "a1b2c3d4-0023-0000-0000-000000000000",
+      "Name": "Jedwabny krawat",
+      "Category": "Ubrania męskie",
+      "BasePrice": 0.50,
+      "PriceDisplay": "0,50 $"
+    },
+    {
+      "Id": "a1b2c3d4-0024-0000-0000-000000000000",
+      "Name": "Muszka",
+      "Category": "Ubrania męskie",
+      "BasePrice": 0.55,
+      "PriceDisplay": "0,55 $"
+    },
+    {
+      "Id": "a1b2c3d4-0025-0000-0000-000000000000",
+      "Name": "Podwiązki do skarpet",
+      "Category": "Ubrania męskie",
+      "BasePrice": 0.39,
+      "PriceDisplay": "0,39 $"
+    },
+    {
+      "Id": "a1b2c3d4-0026-0000-0000-000000000000",
+      "Name": "Bawełniany kombinezon bieliźniany",
+      "Category": "Ubrania męskie",
+      "BasePrice": 1.48,
+      "PriceDisplay": "1,48 $"
+    },
+    {
+      "Id": "a1b2c3d4-0027-0000-0000-000000000000",
+      "Name": "Spinki do mankietów",
+      "Category": "Ubrania męskie",
+      "BasePrice": 0.40,
+      "PriceDisplay": "0,40 $"
+    },
+    {
+      "Id": "a1b2c3d4-0028-0000-0000-000000000000",
+      "Name": "Skórzany pasek",
+      "Category": "Ubrania męskie",
+      "BasePrice": 1.35,
+      "PriceDisplay": "1,35 $"
+    },
+    {
+      "Id": "a1b2c3d4-0029-0000-0000-000000000000",
+      "Name": "Szelki",
+      "Category": "Ubrania męskie",
+      "BasePrice": 0.79,
+      "PriceDisplay": "0,79 $"
+    },
+    {
+      "Id": "a1b2c3d4-0030-0000-0000-000000000000",
+      "Name": "Obuwie turystyczne",
+      "Category": "Ubrania męskie",
+      "BasePrice": 7.25,
+      "PriceDisplay": "7,25 $"
+    },
+    {
+      "Id": "a1b2c3d4-0031-0000-0000-000000000000",
+      "Name": "Korki",
+      "Category": "Ubrania męskie",
+      "BasePrice": 5.25,
+      "PriceDisplay": "5,25 $"
+    },
+    {
+      "Id": "a1b2c3d4-0032-0000-0000-000000000000",
+      "Name": "Kostium kąpielowy",
+      "Category": "Ubrania męskie",
+      "BasePrice": 3.45,
+      "PriceDisplay": "3.45 $"
+    },
+    {
+      "Id": "a1b2c3d4-0033-0000-0000-000000000000",
+      "Name": "Płócienne buty kąpielowe",
+      "Category": "Ubrania męskie",
+      "BasePrice": 0.75,
+      "PriceDisplay": "0,75 $"
+    },
+    {
+      "Id": "a1b2c3d4-0101-0000-0000-000000000001",
+      "Name": "Elegancka suknia od projektanta - Wariant 1",
+      "Category": "Ubrania damskie",
+      "BasePrice": 90.00,
+      "PriceDisplay": "90,00 $"
+    },
+    {
+      "Id": "a1b2c3d4-0101-0000-0000-000000000002",
+      "Name": "Elegancka suknia od projektanta - Wariant 2",
+      "Category": "Ubrania damskie",
+      "BasePrice": 120.00,
+      "PriceDisplay": "120,00 $"
+    },
+    {
+      "Id": "a1b2c3d4-0101-0000-0000-000000000003",
+      "Name": "Elegancka suknia od projektanta - Wariant 3",
+      "Category": "Ubrania damskie",
+      "BasePrice": 150.00,
+      "PriceDisplay": "150,00 $"
+    },
+    {
+      "Id": "a1b2c3d4-0101-0000-0000-000000000004",
+      "Name": "Elegancka suknia od projektanta - Wariant 4",
+      "Category": "Ubrania damskie",
+      "BasePrice": 180.00,
+      "PriceDisplay": "180,00 $"
+    },
+    {
+      "Id": "a1b2c3d4-0101-0000-0000-000000000005",
+      "Name": "Elegancka suknia od projektanta - Wariant 5",
+      "Category": "Ubrania damskie",
+      "BasePrice": 250.00,
+      "PriceDisplay": "250,00 $"
+    },
+    {
+      "Id": "a1b2c3d4-0102-0000-0000-000000000000",
+      "Name": "Suknia z jedwabnej krepy",
+      "Category": "Ubrania damskie",
+      "BasePrice": 13.95,
+      "PriceDisplay": "13,95 $"
+    },
+    {
+      "Id": "a1b2c3d4-0103-0000-0000-000000000000",
+      "Name": "Suknia z jedwabnej tafty",
+      "Category": "Ubrania damskie",
+      "BasePrice": 10.95,
+      "PriceDisplay": "10,95 $"
+    },
+    {
+      "Id": "a1b2c3d4-0104-0000-0000-000000000000",
+      "Name": "Atłasowa sukienka",
+      "Category": "Ubrania damskie",
+      "BasePrice": 10.95,
+      "PriceDisplay": "10,95 $"
+    },
+    {
+      "Id": "a1b2c3d4-0105-0000-0000-000000000000",
+      "Name": "Bawełniana sukienka",
+      "Category": "Ubrania damskie",
+      "BasePrice": 2.59,
+      "PriceDisplay": "2,59 $"
+    },
+    {
+      "Id": "a1b2c3d4-0106-0000-0000-000000000000",
+      "Name": "Lniana sukienka",
+      "Category": "Ubrania damskie",
+      "BasePrice": 10.95,
+      "PriceDisplay": "10,95 $"
+    },
+    {
+      "Id": "a1b2c3d4-0107-0000-0000-000000000000",
+      "Name": "Jedwabna plisowana spódnica",
+      "Category": "Ubrania damskie",
+      "BasePrice": 7.95,
+      "PriceDisplay": "7,95 $"
+    },
+    {
+      "Id": "a1b2c3d4-0108-0000-0000-000000000000",
+      "Name": "Bawełniana bluzka",
+      "Category": "Ubrania damskie",
+      "BasePrice": 1.98,
+      "PriceDisplay": "1,98 $"
+    },
+    {
+      "Id": "a1b2c3d4-0109-0000-0000-000000000000",
+      "Name": "Sweter z wełny czesankowej",
+      "Category": "Ubrania damskie",
+      "BasePrice": 9.48,
+      "PriceDisplay": "9,48 $"
+    },
+    {
+      "Id": "a1b2c3d4-0110-0000-0000-000000000000",
+      "Name": "Bawełniany szlafrok",
+      "Category": "Ubrania damskie",
+      "BasePrice": 0.88,
+      "PriceDisplay": "0,88 $"
+    },
+    {
+      "Id": "a1b2c3d4-0111-0000-0000-000000000000",
+      "Name": "Paryskie szpilki",
+      "Category": "Ubrania damskie",
+      "BasePrice": 4.45,
+      "PriceDisplay": "4,45 $"
+    },
+    {
+      "Id": "a1b2c3d4-0112-0000-0000-000000000000",
+      "Name": "Skórzane pantofle",
+      "Category": "Ubrania damskie",
+      "BasePrice": 0.98,
+      "PriceDisplay": "0,98 $"
+    },
+    {
+      "Id": "a1b2c3d4-0113-0000-0000-000000000000",
+      "Name": "Dopasowany welurowy kapelusz",
+      "Category": "Ubrania damskie",
+      "BasePrice": 4.44,
+      "PriceDisplay": "4,44 $"
+    },
+    {
+      "Id": "a1b2c3d4-0114-0000-0000-000000000000",
+      "Name": "Satynowy kapelusz turban",
+      "Category": "Ubrania damskie",
+      "BasePrice": 3.69,
+      "PriceDisplay": "3,69 $"
+    },
+    {
+      "Id": "a1b2c3d4-0115-0000-0000-000000000000",
+      "Name": "Elastyczny gorset",
+      "Category": "Ubrania damskie",
+      "BasePrice": 2.59,
+      "PriceDisplay": "2,59 $"
+    },
+    {
+      "Id": "a1b2c3d4-0116-0000-0000-000000000000",
+      "Name": "Haftowana halka",
+      "Category": "Ubrania damskie",
+      "BasePrice": 1.59,
+      "PriceDisplay": "1,59 $"
+    },
+    {
+      "Id": "a1b2c3d4-0117-0000-0000-000000000000",
+      "Name": "Jedwabne pończochy (3 pary)",
+      "Category": "Ubrania damskie",
+      "BasePrice": 2.25,
+      "PriceDisplay": "2,25 $"
+    },
+    {
+      "Id": "a1b2c3d4-0118-0000-0000-000000000001",
+      "Name": "Jedwabne pantalony - Wariant 1",
+      "Category": "Ubrania damskie",
+      "BasePrice": 3.98,
+      "PriceDisplay": "3,98 $"
+    },
+    {
+      "Id": "a1b2c3d4-0118-0000-0000-000000000002",
+      "Name": "Jedwabne pantalony - Wariant 2",
+      "Category": "Ubrania damskie",
+      "BasePrice": 4.23,
+      "PriceDisplay": "4,23 $"
+    },
+    {
+      "Id": "a1b2c3d4-0118-0000-0000-000000000003",
+      "Name": "Jedwabne pantalony - Wariant 3",
+      "Category": "Ubrania damskie",
+      "BasePrice": 4.48,
+      "PriceDisplay": "4,48 $"
+    },
+    {
+      "Id": "a1b2c3d4-0118-0000-0000-000000000004",
+      "Name": "Jedwabne pantalony - Wariant 4",
+      "Category": "Ubrania damskie",
+      "BasePrice": 4.73,
+      "PriceDisplay": "4,73 $"
+    },
+    {
+      "Id": "a1b2c3d4-0118-0000-0000-000000000005",
+      "Name": "Jedwabne pantalony - Wariant 5",
+      "Category": "Ubrania damskie",
+      "BasePrice": 4.98,
+      "PriceDisplay": "4,98 $"
+    },
+    {
+      "Id": "a1b2c3d4-0119-0000-0000-000000000000",
+      "Name": "Tweedowa marynarka na podszewce",
+      "Category": "Ubrania damskie",
+      "BasePrice": 3.95,
+      "PriceDisplay": "3,95 $"
+    },
+    {
+      "Id": "a1b2c3d4-0120-0000-0000-000000000000",
+      "Name": "Welurowy płaszcz obszyty futrem",
+      "Category": "Ubrania damskie",
+      "BasePrice": 39.75,
+      "PriceDisplay": "39,75 $"
+    },
+    {
+      "Id": "a1b2c3d4-0121-0000-0000-000000000000",
+      "Name": "Futro z lisa",
+      "Category": "Ubrania damskie",
+      "BasePrice": 198.00,
+      "PriceDisplay": "198,00 $"
+    },
+    {
+      "Id": "a1b2c3d4-0122-0000-0000-000000000000",
+      "Name": "Bawełniany płaszcz przeciwdeszczowy z paskiem",
+      "Category": "Ubrania damskie",
+      "BasePrice": 3.98,
+      "PriceDisplay": "3,98 $"
+    },
+    {
+      "Id": "a1b2c3d4-0123-0000-0000-000000000000",
+      "Name": "Płaszcz przeciwdeszczowy z paskiem z szapy jedwabnej",
+      "Category": "Ubrania damskie",
+      "BasePrice": 8.98,
+      "PriceDisplay": "8,98 $"
+    },
+    {
+      "Id": "a1b2c3d4-0124-0000-0000-000000000000",
+      "Name": "Jedwabna torebka",
+      "Category": "Ubrania damskie",
+      "BasePrice": 4.98,
+      "PriceDisplay": "4,98 $"
+    },
+    {
+      "Id": "a1b2c3d4-0125-0000-0000-000000000000",
+      "Name": "Grzebyk do włosów",
+      "Category": "Ubrania damskie",
+      "BasePrice": 0.98,
+      "PriceDisplay": "0,98 $"
+    },
+    {
+      "Id": "a1b2c3d4-0126-0000-0000-000000000000",
+      "Name": "Turystyczna koszula z dżinsu khaki",
+      "Category": "Ubrania damskie",
+      "BasePrice": 1.79,
+      "PriceDisplay": "1,79 $"
+    },
+    {
+      "Id": "a1b2c3d4-0127-0000-0000-000000000000",
+      "Name": "Turystyczna koszula tweedowa lub lniana",
+      "Category": "Ubrania damskie",
+      "BasePrice": 2.98,
+      "PriceDisplay": "2,98 $"
+    },
+    {
+      "Id": "a1b2c3d4-0128-0000-0000-000000000000",
+      "Name": "Turystyczne spodenki do kolan z dżinsu khaki",
+      "Category": "Ubrania damskie",
+      "BasePrice": 1.79,
+      "PriceDisplay": "1,79 $"
+    },
+    {
+      "Id": "a1b2c3d4-0129-0000-0000-000000000000",
+      "Name": "Turystyczne spodenki do kolan tweedowe szare",
+      "Category": "Ubrania damskie",
+      "BasePrice": 2.98,
+      "PriceDisplay": "2,98 $"
+    },
+    {
+      "Id": "a1b2c3d4-0130-0000-0000-000000000000",
+      "Name": "Turystyczne spodenki do kolan lniane białe",
+      "Category": "Ubrania damskie",
+      "BasePrice": 2.98,
+      "PriceDisplay": "2,98 $"
+    },
+    {
+      "Id": "a1b2c3d4-0131-0000-0000-000000000000",
+      "Name": "Nogawice (od kostek do kolan), khaki",
+      "Category": "Ubrania damskie",
+      "BasePrice": 0.98,
+      "PriceDisplay": "0,98 $"
+    },
+    {
+      "Id": "a1b2c3d4-0132-0000-0000-000000000000",
+      "Name": "Buty turystyczne",
+      "Category": "Ubrania damskie",
+      "BasePrice": 2.59,
+      "PriceDisplay": "2,59 $"
+    },
+    {
+      "Id": "a1b2c3d4-0133-0000-0000-000000000000",
+      "Name": "Kostium kąpielowy",
+      "Category": "Ubrania damskie",
+      "BasePrice": 4.95,
+      "PriceDisplay": "4,95 $"
+    },
+    {
+      "Id": "a1b2c3d4-0134-0000-0000-000000000000",
+      "Name": "Czepek kąpielowy",
+      "Category": "Ubrania damskie",
+      "BasePrice": 0.40,
+      "PriceDisplay": "0,40 $"
+    },
+    {
+      "Id": "a1b2c3d4-0135-0000-0000-000000000000",
+      "Name": "Płócienne buty kąpielowe",
+      "Category": "Ubrania damskie",
+      "BasePrice": 0.54,
+      "PriceDisplay": "0,54 $"
+    },
+    {
+      "Id": "a1b2c3d4-0136-0000-0000-000000000000",
+      "Name": "Buty czółenka",
+      "Category": "Ubrania damskie",
+      "BasePrice": 1.29,
+      "PriceDisplay": "1,29 $"
+    }
+  ]
