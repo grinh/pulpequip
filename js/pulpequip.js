@@ -1,4 +1,31 @@
 window.pulpEquip = {
+    storageKey: 'pulpequip-autosave-v1',
+
+    saveAutosave: function (json) {
+        try {
+            localStorage.setItem(this.storageKey, json);
+        } catch (e) {
+            console.warn('Nie udało się zapisać stanu w localStorage:', e);
+        }
+    },
+
+    loadAutosave: function () {
+        try {
+            return localStorage.getItem(this.storageKey);
+        } catch (e) {
+            console.warn('Nie udało się odczytać stanu z localStorage:', e);
+            return null;
+        }
+    },
+
+    clearAutosave: function () {
+        try {
+            localStorage.removeItem(this.storageKey);
+        } catch (e) {
+            console.warn('Nie udało się wyczyścić localStorage:', e);
+        }
+    },
+
     downloadFile: function (fileName, base64Content) {
         const link = document.createElement('a');
         link.download = fileName;
